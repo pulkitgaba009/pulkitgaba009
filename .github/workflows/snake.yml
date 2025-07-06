@@ -2,15 +2,20 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch:     # 👈 This enables the manual "Run workflow" button
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:      # Enables manual run via button
+
+permissions:
+  contents: write         # Needed to push the generated SVG
+  pages: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: pulkitgaba009
           outputs: |
@@ -18,7 +23,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
