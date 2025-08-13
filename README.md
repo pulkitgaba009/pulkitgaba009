@@ -1,6 +1,4 @@
-﻿<h1 align="center">Hey 👋 What's up?</h1>
-
-###
+<h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F3FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Pulkit+Gaba;Full+Stack+Developer+%F0%9F%92%BB;Student+%E2%9C%8C%EF%B8%8F;Tech+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
@@ -10,8 +8,6 @@
 
 <h2 align="center">About me</h2>
 
-###
-
 <p align="left">
   ✨ Creating bugs since 2005 and fixing them one coffee at a time <br>
   🎓 I'm a student passionate about tech, currently pursuing my journey in software development <br>
@@ -19,7 +15,7 @@
   🎲 Fun fact: I debug better with music on 🎧
 </p>
 
-###
+---
 
 <h2 align="center">🚀 Tech Stack</h2>
 
@@ -30,7 +26,7 @@
 - 🧠 **Currently Exploring**:  
   Full Stack Web Development & AI-powered projects
 
-###
+---
 
 <h2 align="center">I code with</h2>
 
@@ -72,14 +68,13 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pulkitgaba009&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0" alt="GitHub Streak" />
+  <!-- Cache busting with v parameter -->
+  <img src="https://streak-stats.demolab.com?user=pulkitgaba009&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0&v=20250813" alt="GitHub Streak" />
 </p>
 
 ---
 
 <h2 align="center">Contact</h2>
-
-###
 
 <p align="center">
   <picture>
@@ -87,8 +82,6 @@
     <img src="https://raw.githubusercontent.com/pulkitgaba009/pulkitgaba009/output/snake.svg" alt="GitHub Snake Animation" />
   </picture>
 </p>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pulkit-gaba-17593b189/" target="_blank">
@@ -103,8 +96,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
   </a>
 </div>
-
-###
 
 <p align="center">
   <em>"The best way to predict the future is to invent it." – <strong>Alan Kay</strong></em>
