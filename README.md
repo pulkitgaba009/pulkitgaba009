@@ -65,6 +65,7 @@
 
 ---
 
+<!-- check straek -->
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
@@ -100,3 +101,4 @@
 <p align="center">
   <em>"The best way to predict the future is to invent it." – <strong>Alan Kay</strong></em>
 </p>
+
