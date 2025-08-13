@@ -1,0 +1,14 @@
+name: Update GitHub Streak Daily
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight UTC
+  workflow_dispatch: # allow manual run
+
+jobs:
+  ping-vercel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call Vercel API
+        run: |
+          curl -s "https://streak-proxy.vercel.app/api/streak" > /dev/null
