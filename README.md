@@ -69,8 +69,7 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <!-- Cache busting with v parameter -->
-  <img src="https://update-date-jn0a8rg2u-pulkitgaba009s-projects.vercel.app/api/streak" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=pulkitgaba009&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0&v=20250813" alt="GitHub Streak" />
 </p>
 
 ---
@@ -101,5 +100,6 @@
 <p align="center">
   <em>"The best way to predict the future is to invent it." – <strong>Alan Kay</strong></em>
 </p>
+
 
 
