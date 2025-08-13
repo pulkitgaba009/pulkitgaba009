@@ -69,8 +69,9 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pulkitgaba009&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0&v=20250813" />
+  <img src="https://streak-stats.demolab.com/?user=pulkitgaba009&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0" alt="GitHub Streak" />
 </p>
+
 
 ---
 
